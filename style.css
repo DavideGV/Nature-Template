@@ -1,0 +1,36 @@
+header{
+    background-image: url(./media/foto2.jpg);
+    background-size: cover;
+}
+
+#dave-logo{
+    height: 50px;
+}
+
+h4, hr{
+    color: white;
+}
+
+#footer{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+i{
+    font-size:larger ;
+}
+
+.space-evenly{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section{
+    background: linear-gradient(rgba(255, 255, 255, 1), rgba(240, 240, 240, 1));
+}
+
+img{
+    height: 300px;
+}
