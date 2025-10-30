@@ -1,44 +1,46 @@
-header{
+header {
     /* background-image: url(./media/foto2.jpg); */
     background-image: url("https://picsum.photos/1920/1080");
     background-size: cover;
     background-attachment: fixed;
 }
 
-#dave-logo{
+#dave-logo {
     height: 50px;
 }
 
-h4, hr{
+h4,
+hr {
     color: white;
 }
 
-#footer{
+#footer {
     height: 30vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
-i{
-    font-size:larger ;
+i {
+    font-size: larger;
 }
 
-.space-evenly{
+.space-evenly {
     display: flex;
     justify-content: space-evenly;
 }
 
-#bg-section1{
+#bg-section1 {
     background: linear-gradient(rgba(255, 255, 255, 1), rgba(240, 240, 240, 1));
 }
 
-img{
+img {
     height: 300px;
 }
 
-#section2{
-    background-image: url("https://picsum.photos/1920/1082");
+.section2 {
+    background-image: url("https://picsum.photos/1920/1080");
     background-size: cover;
     background-attachment: fixed;
+}
+
+img{
+    border: 15px solid rgb(205, 205, 205);
 }
